@@ -1,0 +1,25 @@
+{
+  "name": "Frontend-Testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "jest",
+    "serve": "node sum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derinsola16/Frontend-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derinsola16/Frontend-Testing/issues"
+  },
+  "homepage": "https://github.com/Derinsola16/Frontend-Testing#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
